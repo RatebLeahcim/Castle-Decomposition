@@ -12,6 +12,8 @@ public class Cubes : MonoBehaviour
     private GameObject door;
     [SerializeField]
     private GameObject enemy;
+    [SerializeField]
+    private GameObject enemy2;
 
     private void OnMouseDown()
     {
